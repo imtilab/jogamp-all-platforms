@@ -11,21 +11,21 @@ Configure JOGL in Eclipse for Graphics projects
    (you can find these jars in jogamp-all-platforms -> jar)
 
 	(if you are using linux)
-	1. gluegen-rt.jar
-	2. gluegen-rt-native-linux-amd64.jar
-	3. jogl-all.jar
-	4. jogl-all-native-linux-amd64.jar
+	i. gluegen-rt.jar
+	ii. gluegen-rt-native-linux-amd64.jar
+	iii. jogl-all.jar
+	iv. jogl-all-native-linux-amd64.jar
 	
 	or, (if you are using windows)
-	1. gluegen-rt.jar
-	2. gluegen-rt-native-windows-amd64.jar
-	3. jogl-all.jar
-	4. jogl-all-native-windows-amd64.jar
+	i. gluegen-rt.jar
+	ii. gluegen-rt-native-windows-amd64.jar
+	iii. jogl-all.jar
+	iv. jogl-all-native-windows-amd64.jar
    
    Now click OK.
 	
 N.B. if you are on a 32 bit machine use jars like "gluegen-rt-native-linux-i586.jar"
-	or for windows 32 use jars like "gluegen-rt-native-windows-i586.jar"
+	or, for windows 32 use jars like "gluegen-rt-native-windows-i586.jar"
 
 
 From now on for every project you create,
