@@ -2,8 +2,8 @@
 
 Configure JOGL in Eclipse for Graphics projects
 ----------------------------------------------
-1. Download and copy jogamp-all-platforms to your machine's any folder
-2. Check for java in your machine
+1. Download and copy "jogamp-all-platforms" to your machine's any folder
+2. Make sure you have JAVA installed in your machine
 3. Open eclipse IDE
 4. Goto Window-> Preferences-> Java-> Build Path-> User Libraries
 5. Click on New and create a new user library name it JOGL (or something else) and click OK
