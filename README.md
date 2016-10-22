@@ -10,13 +10,13 @@ Configure JOGL in Eclipse for Graphics projects
 6. Click on Add External JARs (easier) or Add JARs and then add the following jars to it 
    (you can find these jars in jogamp-all-platforms -> jar)
 
-	(if you are using linux)
+	(if you are using linux, add below 4)
 	1. gluegen-rt.jar
 	2. gluegen-rt-native-linux-amd64.jar
 	3. jogl-all.jar
 	4. jogl-all-native-linux-amd64.jar
 	
-	or, (if you are using windows)
+	or, (if you are using windows, add below 4)
 	
 	1. gluegen-rt.jar
 	2. gluegen-rt-native-windows-amd64.jar
