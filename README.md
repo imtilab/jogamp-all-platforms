@@ -17,6 +17,7 @@ Configure JOGL in Eclipse for Graphics projects
 	4. jogl-all-native-linux-amd64.jar
 	
 	or, (if you are using windows)
+	
 	1. gluegen-rt.jar
 	2. gluegen-rt-native-windows-amd64.jar
 	3. jogl-all.jar
